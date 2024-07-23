@@ -9,5 +9,5 @@ I was working as a QA engineer in a *EdTech* startup in Bangalore, India before 
   
 - I am currently exploring Web application Development
 
-- Outside work I love to experiment with cooking food. ![Biriyani](https://images.app.goo.gl/p1womRc8ajBVuDNR9)
+- Outside work I love to experiment with cooking food. ![Biriyani]([https://images.app.goo.gl/p1womRc8ajBVuDNR9](https://images.app.goo.gl/3MdVdYqB3MqQb2A96))
 
