@@ -9,5 +9,5 @@ I was working as a QA engineer in a *EdTech* startup in Bangalore, India before 
   
 - I am currently exploring Web application Development
 
-- Outside work I love to experiment with cooking food. My recent obsession is ![Biriyani](https://slurrp.club/wp-content/uploads/2021/10/DSC_0037-2.jpg)
+- Outside work I love to experiment with cooking food. 
 
